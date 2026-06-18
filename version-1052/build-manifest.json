@@ -1,0 +1,23 @@
+{
+  "site_name": "必看国产剧",
+  "generated_on": "2026-05-22",
+  "txt_records": 1981,
+  "js_records": 150,
+  "total_records": 2131,
+  "html_pages": 2150,
+  "categories": [
+    "精选电影",
+    "剧集连播",
+    "国产专区",
+    "日韩佳作",
+    "欧美影集",
+    "悬疑惊悚",
+    "动作冒险",
+    "爱情治愈",
+    "科幻奇幻",
+    "喜剧动画",
+    "纪录综艺",
+    "经典片库"
+  ],
+  "local_search_data": "assets/data/movies.js"
+}
